@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**AndreasEberle/AndreasEberle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hi , my name is Andreas Kafkis-Eberle.
 My main interests are web development along with vanilla Java programming.
-Hobby-wise I like learning foreign languages
+Hobby-wise I like learning foreign languages , currently aiming for N1 in Japanese.
+
+I'm really looking forward to meeting new people especially from different countries & cultures.
+
+And lest we forget , I love travelling! :)
