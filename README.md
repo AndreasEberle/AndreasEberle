@@ -6,4 +6,4 @@ Hobby-wise I like learning foreign languages , currently aiming for N1 in Japane
 
 I'm really looking forward to meeting new people especially from different countries & cultures.
 
-And lest we forget , I love travelling! :)
+And lest we forget , I love travelling! :smiley:
